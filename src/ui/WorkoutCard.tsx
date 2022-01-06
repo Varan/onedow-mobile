@@ -70,14 +70,16 @@ const styles = StyleSheet.create({
         height: 50,
         width: 50,
         borderRadius: 25,
-        backgroundColor: '#8FB299',
+        backgroundColor: '#8FB299'
     },
     whiteText: {
         color: '#fff'
     },
     circleText:{
         fontSize: 16,
-        margin: 'auto'
+        justifyContent: "center",
+        marginTop: '25%',
+        marginLeft: '40%'
     },
     grayText: {
         color: '#655252'

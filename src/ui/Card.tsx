@@ -27,6 +27,7 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.3,
         shadowRadius: 3,
         flexDirection: 'column',
-        padding: 10
+        padding: 10,
+        justifyContent: "center"
     },
 })

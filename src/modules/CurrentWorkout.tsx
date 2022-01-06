@@ -86,7 +86,7 @@ export const CurrentWorkout: React.FC<Props> = observer(
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#fafafa',
+        backgroundColor: 'silver',
         padding: 10
     },
     scrollContainer: {
